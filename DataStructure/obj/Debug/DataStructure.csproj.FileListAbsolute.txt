@@ -1,0 +1,7 @@
+C:\Users\Megumin\source\repos\DataStructureApp\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\Megumin\source\repos\DataStructureApp\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\Megumin\source\repos\DataStructureApp\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\Megumin\source\repos\DataStructureApp\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Users\Megumin\source\repos\DataStructureApp\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Megumin\source\repos\DataStructureApp\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\Megumin\source\repos\DataStructureApp\DataStructure\obj\Debug\DataStructure.pdb
